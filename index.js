@@ -1,2 +1,1 @@
-alert('first alert')
-console.log(6666);
+alert('first alert',7)
